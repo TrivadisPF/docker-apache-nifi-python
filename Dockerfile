@@ -1,4 +1,4 @@
-FROM apache/nifi:1.22.0
+FROM apache/nifi:1.23.0
 LABEL maintainer="Guido Schmutz"
 
 USER root
